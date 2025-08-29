@@ -12,10 +12,13 @@ An automated tool that launches a browser, fills out forms on behalf of the user
    cd Browser-Automation-FormFiller-Tool
 
 2. **Install dependencies**
-npm install
+```bash
+  npm install
 
 3. **Create .env file in project root:**
-OPENAI_API_KEY=""
+```bash
+    OPENAI_API_KEY=""
 
 4. **Start Project**
-npm start
+```bash
+    npm start
