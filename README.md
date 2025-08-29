@@ -13,12 +13,12 @@ An automated tool that launches a browser, fills out forms on behalf of the user
 
 2. **Install dependencies**
 ```bash
-  npm install
+  npm install ```
 
 3. **Create .env file in project root:**
 ```bash
-    OPENAI_API_KEY=""
+    OPENAI_API_KEY="" ```
 
 4. **Start Project**
 ```bash
-    npm start
+    npm start ```
